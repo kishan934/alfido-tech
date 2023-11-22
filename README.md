@@ -1,2 +1,2 @@
-# alfido-tech
+# Alfido-Tech
 INTERNSHIP ON DATA SCIENCE OF ALFIDO TECH
